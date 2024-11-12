@@ -1,0 +1,38 @@
+.firstDivEl-position{
+    display: flex;
+    margin: 18px 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondDivEl-position{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 85px;
+    justify-content: center;
+}
+
+.secondDivEl-border{
+    display: flex;
+    margin: 20px 100px 20px 100px;
+    border: 1px solid black;
+}
+
+.tripleH5El-position{
+    display: flex;
+    padding: 5px;
+    margin: 0px;
+    width: 30px;
+}
+
+.tripleDiv-border{
+    border: 10px solid hsl(250 100% 85%);
+}
+
+.tripleH5ElEven{
+    background-color: black;
+    color: white;
+}
+
+
+

@@ -14,6 +14,7 @@
 
 .secondDivEl-border{
     display: flex;
+    justify-content: space-around;
     margin: 20px 100px 20px 100px;
     border: 1px solid black;
 }
@@ -22,17 +23,22 @@
     display: flex;
     padding: 5px;
     margin: 0px;
-    width: 30px;
+    width: 40px;
 }
 
 .tripleDiv-border{
     border: 10px solid hsl(250 100% 85%);
 }
 
-.tripleH5ElEven{
-    background-color: black;
-    color: white;
+.text-center{
+    justify-content: center;
 }
+
+.text-end{
+    justify-content: end;
+}
+
+
 
 
 
